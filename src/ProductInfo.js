@@ -3,7 +3,7 @@ import ReturnIcon from "./assets/icons/return-icon.svg";
 import GuaranteeIcon from "./assets/icons/guarantee-icon.svg";
 import ShippingIcon from "./assets/icons/shipping-icon.svg";
 import StarsIcon from "./assets/icons/Star.svg";
-import CottonIcon from "./assets/icons/Cotton-icon.svg";
+import CottonIcon from "./assets/icons/cotton-icon.svg";
 import FeatherIcon from "./assets/icons/feather-icon.svg";
 
 export const data1 = [
